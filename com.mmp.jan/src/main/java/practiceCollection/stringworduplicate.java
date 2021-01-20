@@ -31,4 +31,6 @@ public class stringworduplicate {
 	    }
 	    System.out.println(map);
 	}
+	//this program output is not proper..need to check the logic
 }
+
